@@ -1,1 +1,1 @@
-Week 02 - Logic Gate & Adder
+Week02_Logic_Gate_and_Adder
